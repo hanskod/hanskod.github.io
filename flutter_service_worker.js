@@ -194,9 +194,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "056402238d08204b33c38d838527889d
 "icons/apple-touch-icon.png": "fb3e4c21dd1a3a5e6108735e45df444a",
 "icons/favicon-16x16.png": "5695366665da146e82f0c35edd0632cb",
 "icons/favicon-32x32.png": "904cec53115d5f60bdb3ac955b04881a",
-"index.html": "d4fce995ae9965fb1db3ef16edf108c2",
-"/": "d4fce995ae9965fb1db3ef16edf108c2",
-"main.dart.js": "0a4be79ea2aa60f9861a5d9206393322",
+"index.html": "5952df30641010fe1c648f77622bc244",
+"/": "5952df30641010fe1c648f77622bc244",
+"main.dart.js": "9dc16258ba7004ea8bd050c13705bc21",
 "manifest.json": "69cbac2c80ac8ccba2634a7d512284de",
 "version.json": "ed1f2143abf4837182dcf4b48897aee0"};
 // The application shell files that are downloaded before a service worker can
